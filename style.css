@@ -1,0 +1,17 @@
+body {
+  background: rgb(0, 0, 0);
+  overflow: hidden;
+  font-family: "Segoe UI", sans-serif;
+}
+
+p {
+  line-height: 14px;
+  background: url("./image1.jpg");
+  -webkit-background-clip: text;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  background-size: cover;
+  text-align: justify;
+  background-position: center;
+}
